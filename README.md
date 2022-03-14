@@ -1,1 +1,1 @@
-# Cartooning-the-Image
+# Cartooning of an Image Using Python
